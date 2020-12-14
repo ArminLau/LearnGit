@@ -49,6 +49,6 @@ However, it is only the precondition.
 
   Sign in Github, navigate to <kbd>Account Settings</kbd>, select <kbd>SSH and GPG keys</kbd>, click on <kbd>Add SSH Key</kbd>, input random titile, then paste the content of id_rsa.pub into "Key textarea",  finally click on <kbd>Add Key</kbd>
   
-  ![](..\img\img_SSH_Configuration.JPG)
+  ![](https://github.com/ArminLau/LearnGit/blob/main/img/img_SSH_Configuration.JPG)
   
   And now configuration is finished.
