@@ -24,7 +24,7 @@ First of all, we should know about some concepts of Git:
 
 There are several commands when using Git, the relationship between commands and concepts can be displayed as below:
 
-![git-command](..\img\git-command.jpg)
+![git-command](https://github.com/ArminLau/LearnGit/blob/armin/img/git-command.jpg?raw=true)
 
 1. When we create a new text file which we want can be manage by  Git under workspace,  we can use command as below to add it into staging area:
 
