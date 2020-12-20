@@ -12,5 +12,7 @@ It is annoying when we have to solve these problems above.
 
 But you can easily solve problems with Git!
 
+By using Git, any change of your each code source file can be traced, which includes modification, deletion and creation. You can also restore your code to its previous state at any time.
+
 After learning how to use Git, you will understand how Git solve all these problems for us.
 
