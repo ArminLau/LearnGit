@@ -26,7 +26,7 @@ git remote show origin		#check the relationship between remote branches and loca
 
 > Scene One:	synchronize local branch with remote branch
 
-* execute  `git branch -a`  to check the difference between local branch and remote branc
+* execute  `git branch -a`  to check the difference between local branch and remote branch
 
 * execute  `git fetch`  to update local repository from remote repository, after which it is able to view new remote branches
 
